@@ -1,7 +1,7 @@
 # Predictive-maintenance-api
 
 Step-1:
-train model using calssification algorithm
+train model using classification algorithm optimize the best algorithm using Lazy predict
 Step-2:
 set up api end points to receive predictions
 Step-3:
